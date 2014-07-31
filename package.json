@@ -1,5 +1,5 @@
 {
-  "name": "karma-webdriver-launcher",
+  "name": "karma-webdriver-launcher-chess",
   "version": "0.2.0",
   "description": "A Karma plugin. Launcher for Remote WebDriver instances.",
   "main": "index.js",
